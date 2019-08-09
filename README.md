@@ -1,5 +1,5 @@
 # MeDrop
-Oficjalny skrypt na drop z confingiem
+Oficjalny skrypt na drop z confingiem<br>
 ![GitHub release](https://img.shields.io/github/release/Mefuuu/MeDrop.svg?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Mefuuu/MeDrop.svg?style=for-the-badge)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?style=for-the-badge)
