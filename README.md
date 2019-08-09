@@ -6,4 +6,4 @@ Oficjalny skrypt na drop z confingiem<br>
 ![GitHub All Releases](https://img.shields.io/github/downloads/Mefuuu/MeDrop/total.svg?style=for-the-badge)<br>
 
 * Discord <br>
-![Discord](https://img.shields.io/discord/483995085902446615?label=Discord&style=for-the-badge)](https://discordapp.com/invite/kKpgtFB)
+[![Discord](https://img.shields.io/discord/483995085902446615?label=Discord&style=for-the-badge)](https://discordapp.com/invite/kKpgtFB)
