@@ -7,3 +7,4 @@ Oficjalny skrypt na drop z confingiem<br>
 
 * Discord <br>
 [![Discord](https://img.shields.io/discord/425192525091831808.svg?style=for-the-badge)](https://discordapp.com/invite/kKpgtFB)
+![Discord](https://img.shields.io/discord/570206030013923328?label=Discord&style=for-the-badge)
