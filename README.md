@@ -20,3 +20,34 @@
     <img src="https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Closed Issues" />
   </a>
 </p>
+
+** **
+
+# Spis Treści
+
+- [Opis](#opis)
+- [Pobieranie](#pobieranie)
+- [Wersje MC](#wersje-mc)
+- [Wymagane dodatki](#wymagane-dodatki)
+
+** **
+
+## Opis
+
+MeDrop to skrypt na drop z kamienia którego można łatwo konfigurować poprzez config (jak zwykły plugin)
+
+MeDrop posiada:
+- Drop z kamienia 10 różnych przedmiotów które można ustawić w config'u
+- Wyłączenie drop'u z rud
+- Możliwość konfigurowania dropu
+  - Wypadanie cobbl'a
+  - Wypadanie poszczególnych itemów
+  - Informowanie o dropie na czacie
+- Turbodrop i jego czas trwania pod gui /drop
+- System poziomów poprzez ilość wykopanego kamienia
+  - Opcja odblokowywania czatu za wykopanie kamienia (można wyłączyć)
+- Spis % wypadania (również z fortune i turbodropem)
+
+## Pobieranie
+
+Skrypt pobierzesz [tutaj](https://github.com/Mefuuu/MeDrop/releases)
