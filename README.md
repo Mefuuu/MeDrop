@@ -72,3 +72,11 @@ Czyli funkcjonalność skryptu w zależności od wersji minecrafta
   - Nie działa
 - 1.15
   - Nie działa
+
+## Wymagane Dodatki
+
+- [SkUtilities](https://forums.skunity.com/resources/skutilities.26/)
+- [TuSKe](https://github.com/Tuke-Nuke/TuSKe/releases)
+- [skript-yaml](https://forums.skunity.com/resources/skript-yaml.362/)
+- [Skellet](https://forums.skunity.com/resources/skellett-the-beast-addon.24/)
+- [SkQuery](https://github.com/SkQuery/SkQuery/releases)
