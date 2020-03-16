@@ -51,3 +51,39 @@ MeDrop posiada:
 ## Pobieranie
 
 Skrypt pobierzesz [tutaj](https://github.com/Mefuuu/MeDrop/releases)
+
+## Wersje MC
+
+Czyli funkcjonalność skryptu w zależności od wersji minecrafta
+
+### 1.8
+
+?
+
+### 1.9
+
+?
+
+### 1.10
+
+?
+
+### 1.11
+
+?
+
+### 1.12
+
+?
+
+### 1.13
+
+?
+
+### 1.14
+
+Nie działa
+
+### 1.15
+
+Nie działa
