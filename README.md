@@ -57,7 +57,8 @@ Skrypt pobierzesz [tutaj](https://github.com/Mefuuu/MeDrop/releases)
 Czyli funkcjonalność skryptu w zależności od wersji minecrafta
 
 - 1.8
-  - ?
+** **
+  - ![1.8](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 - 1.9
   - ?
 - 1.10
