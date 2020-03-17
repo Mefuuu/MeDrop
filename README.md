@@ -87,3 +87,4 @@ Czyli funkcjonalność skryptu w zależności od wersji minecrafta
 - [skript-yaml](https://github.com/Sashie/skript-yaml/releases/)
 - [Skellet](https://forums.skunity.com/resources/skellett-the-beast-addon.24/)
 - [SkQuery](https://github.com/SkQuery/SkQuery/releases)
+<span style="color:orange;">Word up</span>
