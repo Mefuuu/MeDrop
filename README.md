@@ -75,8 +75,8 @@ Czyli funkcjonalność skryptu w zależności od wersji minecrafta
 
 ## Wymagane Dodatki
 
-- [SkUtilities](https://forums.skunity.com/resources/skutilities.26/)
+- [SkUtilities](https://github.com/tim740/skUtilities/releases/)
 - [TuSKe](https://github.com/Tuke-Nuke/TuSKe/releases)
-- [skript-yaml](https://forums.skunity.com/resources/skript-yaml.362/)
+- [skript-yaml](https://github.com/Sashie/skript-yaml/releases/)
 - [Skellet](https://forums.skunity.com/resources/skellett-the-beast-addon.24/)
 - [SkQuery](https://github.com/SkQuery/SkQuery/releases)
