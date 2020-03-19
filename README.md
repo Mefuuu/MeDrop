@@ -44,10 +44,15 @@ MeDrop posiada:
   - Wypadanie poszczególnych itemów
   - Informowanie o dropie na czacie
   - Dropienie do ekwipunku
-- Turbodrop i jego czas trwania pod gui /drop
+- Turbodrop
+- Menu w GUI
+  - Status i pozostały czas turbodropu
+  - Statystyki (poziom/exp/wykopany kamień)
+  - Wyłączanie/włączanie dropu poszczególnych przedmiotów/cobbla/wypadania do ekwipunku/a nawet całego dropu
+  - Wyłączenie/włączenie wiadomości o dropie
+  - Spis % wypadania i ilości wypadania (również z fortune i turbodropem)
 - System poziomów poprzez ilość wykopanego kamienia
   - Opcja odblokowywania czatu za wykopanie kamienia (można wyłączyć)
-- Spis % wypadania i ilości wypadania (również z fortune i turbodropem)
 
 ## Pobieranie
 
