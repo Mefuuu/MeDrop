@@ -60,7 +60,8 @@ Czyli funkcjonalność skryptu w zależności od wersji minecrafta (testowane na
   - ![1.8](https://placehold.it/15/f03c15/000000?text=+) `1.8` - `1.8.8`
 ** **
 - 1.9
-  - ?
+  - ![1.9](https://placehold.it/15/f03c15/000000?text=+) `1.9`
+  - [1.9.2](https://placehold.it/15/00ff00/000000?text=+) `1.9.2`
 ** **
 - 1.10
   - ?
