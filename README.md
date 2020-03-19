@@ -39,11 +39,6 @@ MeDrop to skrypt na drop z kamienia którego można łatwo konfigurować poprzez
 MeDrop posiada:
 - Drop z kamienia 10 różnych przedmiotów które można ustawić w config'u
 - Wyłączenie drop'u z rud
-- Możliwość konfigurowania dropu
-  - Wypadanie cobbl'a
-  - Wypadanie poszczególnych itemów
-  - Informowanie o dropie na czacie
-  - Dropienie do ekwipunku
 - Turbodrop
 - Menu w GUI
   - Status i pozostały czas turbodropu
