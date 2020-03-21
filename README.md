@@ -54,7 +54,7 @@ MeDrop posiada:
 
 ## Pobieranie
 
-Skrypt pobierzesz [tutaj](https://github.com/Mefuuu/MeDrop/releases)
+Wszystkie wersje skryptu pobierzesz [tutaj](https://github.com/Mefuuu/MeDrop/releases)
 
 ## Wersje MC
 
