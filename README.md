@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/issues-raw/Mefuuu/MeDrop.svg?color=red&label=Otwarte%20Problemy&style=for-the-badge" alt="Open Issues" />
   </a>
   <a title="Closed Issues" href="https://github.com/Mefuuu/MeDrop/issues" target=_blank">
-    <img src="https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?color=green&label=Zamknięte%20Problemy&style=for-the-badge" alt="Closed Issues" />
+    <img src="https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?color=green&label=Zamkniete%20Problemy&style=for-the-badge" alt="Closed Issues" />
   </a><br>
   <a title="Download MeDrop 2.0" href="https://github.com/Mefuuu/MeDrop/releases/download/2.0/medrop.sk" target="_blank">
     <img src="https://archive.org/download/download-button-png/download-button-png.png" width="300" height="100" alt="Download MeDrop 2.0" />
