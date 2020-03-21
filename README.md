@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/release/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Latest Release" />
   </a>
   <a title="Pobrania" href="https://github.com/Mefuuu/MeDrop/downloads" target="_blank">
-    <img src="https://img.shields.io/github/downloads/Mefuuu/MeDrop/total?label=Pobrania&style=for-the-badge" alt="Downloads" />
+    <img src="https://img.shields.io/github/downloads/Mefuuu/MeDrop/total?color=green&label=Pobrania&style=for-the-badge" alt="Downloads" />
   </a><br>
   <a title="Open Issues" href="https://github.com/Mefuuu/MeDrop/issues" target=_blank">
     <img src="https://img.shields.io/github/issues-raw/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Open Issues" />
