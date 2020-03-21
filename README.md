@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Closed Issues" />
   </a><br>
   <a title="Download" href="https://github.com/Mefuuu/MeDrop/releases/download/2.0/medrop.sk" target="_blank">
-    <img src="https://archive.org/download/download-button-png/download-button-png.png" alt="Download" />
+    <img src="https://archive.org/download/download-button-png/download-button-png.png" width="100" height="25" alt="Download" />
   </a>
 </p>
 
