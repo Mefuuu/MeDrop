@@ -5,19 +5,19 @@
 </p>
 <p align="center">
   <a title="Contributors" href="https://github.com/Mefuuu/MeDrop/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Contributors" />
+    <img src="https://img.shields.io/github/contributors/Mefuuu/MeDrop.svg?color=blue&label=Autorzy&style=for-the-badge" alt="Contributors" />
   </a>
   <a title="Release" href="https://github.com/Mefuuu/MeDrop/releases" target="_blank">
-    <img src="https://img.shields.io/github/release/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Latest Release" />
+    <img src="https://img.shields.io/github/release/Mefuuu/MeDrop.svg?color=blueviolet&label=Wydanie&style=for-the-badge" alt="Latest Release" />
   </a>
   <a title="Pobrania" href="https://github.com/Mefuuu/MeDrop/downloads" target="_blank">
     <img src="https://img.shields.io/github/downloads/Mefuuu/MeDrop/total?color=green&label=Pobrania&style=for-the-badge" alt="Downloads" />
   </a><br>
   <a title="Open Issues" href="https://github.com/Mefuuu/MeDrop/issues" target=_blank">
-    <img src="https://img.shields.io/github/issues-raw/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Open Issues" />
+    <img src="https://img.shields.io/github/issues-raw/Mefuuu/MeDrop.svg?color=red&label=Otwarte%20Problemy&style=for-the-badge" alt="Open Issues" />
   </a>
   <a title="Closed Issues" href="https://github.com/Mefuuu/MeDrop/issues" target=_blank">
-    <img src="https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?style=for-the-badge" alt="Closed Issues" />
+    <img src="https://img.shields.io/github/issues-closed-raw/Mefuuu/MeDrop.svg?color=green&label=Zamknięte%20Problemy&style=for-the-badge" alt="Closed Issues" />
   </a><br>
   <a title="Download MeDrop 2.0" href="https://github.com/Mefuuu/MeDrop/releases/download/2.0/medrop.sk" target="_blank">
     <img src="https://archive.org/download/download-button-png/download-button-png.png" width="300" height="100" alt="Download MeDrop 2.0" />
