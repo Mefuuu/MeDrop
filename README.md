@@ -79,10 +79,7 @@ Czyli funkcjonalność skryptu w zależności od wersji minecrafta (testowane na
 - 1.13
   - ?
 ** **
-- 1.14
-  - Nie działa
-** **
-- 1.15
+- 1.14+
   - Nie działa
 
 ## Wymagane Dodatki
